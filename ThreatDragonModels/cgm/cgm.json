@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "cgm",
+    "owner": "nada"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "cgm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "cgm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ]
+  }
+}
